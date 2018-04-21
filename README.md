@@ -1,5 +1,5 @@
 # cordova-honeywell-scanner-simplified
-Ionic/Cordova Honeywell Scanner Simplified Plugin for the barcodes buil-in scanner.
+A Ionic/Cordova Honeywell Scanner Simplified Plugin for the buil-in barcodes scanner.
 
 # Install
 Ionic: `ionic cordova plugin add cordova-honeywell-scanner-simplified`
