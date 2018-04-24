@@ -18,5 +18,9 @@ window.plugins.honeywell.listen(data => {
   });
 ```
 
+# Tips
+
+With Ionic 3, in order to access the window property, you must declare it inside your class, right at the begining: `window: any = window` 
+
 
 [Doru Moraru](http://doru-moraru.com)

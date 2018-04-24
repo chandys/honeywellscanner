@@ -17,7 +17,7 @@
   "name": "cordova-honeywell-scanner-simplified",
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/dorumoraru/cordova-honeywell-scanner-simplified.git"
+    "url": "https://bitbucket.org/dorumoraru/cordova-honeywell-scanner-simplified"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
