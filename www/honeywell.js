@@ -1,3 +1,4 @@
+var cordova = require('cordova');
 var execute = require('cordova/exec');
 
 var honeywell = {
