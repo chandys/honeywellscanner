@@ -9,7 +9,7 @@ var honeywell = {
     },
     claim: function () {
         return execute(null, null, "HoneywellScannerPlugin", "claim", []);
-    },
+    }
     // @todo:
     /*
     enable: function (res, err) {
